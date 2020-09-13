@@ -15,9 +15,9 @@
 # print("hello world")
 
 
-#def say_yolo(name):
+# def say_yolo(name):
 #    print(f'Yolo {name}')
-#exec('say_yolo', {'name': 'Phuc'})
+# exec('say_yolo', {'name': 'Phuc'})
 
 # a, *_ = [{'a': 1}, {'b': 2}, {'c': 3}]
 # print(a)
